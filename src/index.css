@@ -1,0 +1,38 @@
+
+/* GLOBAL COLORS */
+:root{
+  --white: #FFF
+
+   
+}
+
+
+
+/* GLOBAL STYLES */
+
+
+
+
+html{
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+*,*:before,*:after{
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 1.6rem;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+button{
+  background: transparent; 
+  border: none;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+
